@@ -6,8 +6,9 @@ if (currentTheme) {
     document.body.classList.remove('light-mode', 'dark-mode');
     document.body.classList.add(currentTheme);
 }
-document.getElementById('hamburger').addEventListener('click', function() {
-    const navLinks = document.getElementById('navLinks');
+
+document.getElementById('hamburger').addEventListener('click', function () {
+    var navLinks = document.getElementById('navLinks');
     navLinks.classList.toggle('show');
 });
 
