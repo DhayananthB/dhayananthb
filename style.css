@@ -103,6 +103,14 @@ body.dark-mode .social-icons a {
         padding: 20px;
         box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
+    .profile-img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-bottom: 0px;
+        padding: 0px;
+    }
+    
 
     /* Show the hamburger icon */
     .hamburger {
@@ -121,6 +129,9 @@ body.dark-mode .social-icons a {
     .container {
         margin-left: 3%;
         margin-right: 3%;
+    }
+    .content{
+        font-size:15px;
     }
 }
 
