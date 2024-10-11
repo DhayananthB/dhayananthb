@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhayananthb&label=Profile%20views&color=0e75b6&style=flat" alt="dhayananthb" /> </p>
 
-- 🌱 I’m currently learning **AIML , DataScience**
-
+- 🌱 Passionate about Data Science and Machine Learning
+- 👽 Open minded
 - 📫 How to reach me **dhayananthtn@gmail.com**
+  
+[![An image of @dhayananthb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhayananthb)](https://holopin.io/@dhayananthb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
