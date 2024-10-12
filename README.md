@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm dhayananth</h1>
-<h3 align="center">A passionate student from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhayananthb&label=Profile%20views&color=0e75b6&style=flat" alt="dhayananthb" /> </p>
 
+- 🤗 Open Source Contributor
 - 🌱 Passionate about Data Science and Machine Learning
 - 👽 Open minded
-- 📫 How to reach me **dhayananthtn@gmail.com**
   
 [![An image of @dhayananthb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhayananthb)](https://holopin.io/@dhayananthb)
 
