@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Hi there 👋
 
 <!--
@@ -36,4 +35,4 @@ Here are some ideas to get you started:
 <!--  ### Contributions 
 
 [![An image of @dhayananthb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhayananthb)](https://holopin.io/@dhayananthb) -->
->>>>>>> 0880007102a936d0194d9dca565ed97359cb8056
+
