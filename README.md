@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 *Welcome to my GitHub profile! I’m currently a student, exploring the worlds of data science, machine learning, and software development. I'm passionate about solving problems, learning new technologies, and building innovative solutions.*
 
 ### 🚀 About Me
-- 🌱 I’m currently diving into **Generative AI** and **Machine Learning**.
+- 🌱 I’m currently diving into **Data Science** and **Machine Learning**.
 - 📚 Improving my skills 
 - ✨ I enjoy experimenting with different tech stacks and challenging myself with new projects.
   
