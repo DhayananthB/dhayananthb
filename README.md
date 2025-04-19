@@ -11,7 +11,4 @@
 - **Languages:** Java, Python, Dart ✍️  
 - **Frameworks:** Flutter, FastAPI, Flask ⚙️
   
----
-
-_"Let’s build something amazing!"_ 🚀
 
